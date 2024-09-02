@@ -1,3 +1,3 @@
 # NoteApp
 
-it is a note taking app
+it is a note taking app.
